@@ -1,0 +1,9 @@
+[pkg-default]:
+Author: Do An
+Description: The old, fashioned default packages!
+License: Apache License 2.0
+>> Package is DEFAULT <<
+[pkg-example]:
+Author: Do An
+Description: Added XtL pkg to tell you this is an example
+License: No

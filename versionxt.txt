@@ -1,0 +1,10 @@
+Welcome to FuryTerminal
+The programs create a shell to run at.
+FuryTerminal is not #_VERSION
+
+===============================================================================
+
+FuryTerminal v1.04 [_apache/publicrel]
+by Do An
+type "helputil" for list of avalible packages and commands
+

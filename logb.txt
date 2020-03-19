@@ -1,0 +1,15 @@
+FuryTerminal
+
+Build version: WINBUILD.A10015EQS.A510QH91
+Version type: VER_STABLE_OFFICAL//HASH
+Version number: 1.04.10015
+Beta build related: WINBUILD.A10011DDQ.A210QH44
+FineFramework version: 1.0.88
+><><><><><><><><><><><><><><><><><><><><><><><><
+Buildman: Do An
+Year build: 2020
+
+Thank you for buying!
+
+
+#sh/shbin
